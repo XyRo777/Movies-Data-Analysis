@@ -108,7 +108,20 @@ The dashboard provides:
 
 ---
 
-## 8. Conclusion  
+## 8. Analysis Report
+The dashboard analysis highlights clear trends in content distribution and financial performance across different content types and countries.
+
+Movies represent the highest share of total content, followed by TV Series and Stand-up Comedy. Movies also contribute the largest portion of total box office revenue and production investment.
+
+The Investment vs Return analysis shows that Movies generate significantly higher box office returns compared to other content types, indicating strong profitability. TV Series contribute substantially in terms of total seasons and episodes, reflecting long-term audience engagement.
+
+The average IMDb rating across content types remains relatively consistent, suggesting balanced audience reception across formats.
+
+Country-wise analysis indicates that the USA leads in both production budget and box office revenue, making it the dominant market in the dataset. Other countries such as the UK, South Korea, and India also show notable contributions.
+
+---
+
+## 9. Conclusion  
 
 The analysis highlights a strong relationship between production investment and box office performance. Movies dominate revenue and budget contribution, while TV Series contribute significantly in terms of engagement and episodes.
 
