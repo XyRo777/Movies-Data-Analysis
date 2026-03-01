@@ -104,7 +104,7 @@ The dashboard provides:
 
 ## 7. Dashboard Preview  
 
-![Dashboard Preview](Dashboard_image.jpg)
+![Dashboard Preview](Dashboard_image.jpeg)
 
 ---
 
