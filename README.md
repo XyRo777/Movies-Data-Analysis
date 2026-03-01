@@ -6,6 +6,7 @@
     </div>
 </div>
 
+<style>
 .banner {
     height: 300px;
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
@@ -28,7 +29,7 @@
     font-size: 18px;
     opacity: 0.9;
 }
-
+</style>
 ---
 
 ## 1. Project Title  
