@@ -1,35 +1,6 @@
-
-<div class="banner">
-    <div class="banner-content">
-        <h1>🎬 Netflix Movies Data Analysis</h1>
-        <p>Investment vs Return | Genre Trends | Global Insights</p>
-    </div>
-</div>
-
-<style>
-.banner {
-    height: 300px;
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
-                url('your-banner-image.jpg') center/cover no-repeat;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    color: white;
-    border-radius: 12px;
-    margin-bottom: 30px;
-}
-
-.banner-content h1 {
-    font-size: 40px;
-    font-weight: bold;
-}
-
-.banner-content p {
-    font-size: 18px;
-    opacity: 0.9;
-}
-</style>
+<p align="center">
+  <img src="Dashboard/your-banner-image.jpg">
+</p>
 ---
 
 ## 1. Project Title  
