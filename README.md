@@ -7,7 +7,7 @@ Interactive Movies Data Analysis Dashboard using MS Excel with Investment vs Ret
 
 ## 1. Project Title  
 
-**Movies Data Analysis Using MS Excel**
+**Movies Data Analysis Using Google Sheets**
 
 ---
 
