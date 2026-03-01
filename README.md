@@ -1,7 +1,7 @@
 <p align="center">
   <img src="Dashboard/your-banner-image.jpg">
 </p>
-Interactive Movies Data Analysis Dashboard using MS Excel with Investment vs Return insights.
+Interactive Movies Data Analysis Dashboard using Google Sheets with Investment vs Return insights.
 
 ---
 
