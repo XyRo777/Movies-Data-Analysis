@@ -104,7 +104,9 @@ The dashboard provides:
 
 ## 7. Dashboard Preview  
 
-![Dashboard Preview](Dashboard_image.jpeg)
+<p align="center">
+  <img src="Dashboard/Dashboard_image.jpeg" width="800">
+</p>
 
 ---
 
